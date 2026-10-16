@@ -1,0 +1,19 @@
+{
+ "requests_priced": 61955,
+ "unpriced_requests": {},
+ "total_cost_usd_api_equivalent": 7881.77,
+ "tokens_millions": {
+  "input_tokens": 0.15,
+  "output_tokens": 64.73,
+  "cache_write_5m": 44.4,
+  "cache_write_1h": 247.74,
+  "cache_read": 27557.56
+ },
+ "cache_read_share_of_input_side_tokens": 0.9895,
+ "subagent_requests_on_pricier_models": {
+  "current_cost_usd": 118.95,
+  "repriced_on": "claude-sonnet-5-5",
+  "repriced_cost_usd": 56.81,
+  "gross_saving_usd": 62.14
+ }
+}

@@ -1,0 +1,6 @@
+claude-opus-4-7  -> claude-opus-5-5   requests=  244  now=$   37.81  at-target=$   18.33  saving=$  19.48
+claude-opus-4-8  -> claude-opus-5-5   requests=   13  now=$    6.86  at-target=$    4.57  saving=$   2.29
+claude-opus-5    -> claude-opus-5-5   requests= 1742  now=$  525.60  at-target=$  254.53  saving=$ 271.06
+claude-sonnet-5  -> claude-sonnet-5-5 requests=    6  now=$    2.57  at-target=$    2.33  saving=$   0.24
+naive saving (whole period): $1,624.69 = 20.6% of $7,881.77
+available-at-the-time saving: $293.08 = 3.7%  (overstatement if naive: 5.5x)

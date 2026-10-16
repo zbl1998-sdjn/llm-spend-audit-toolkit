@@ -1,0 +1,3 @@
+kind,requests,cost_usd,cost_input,cost_cache_write_5m,cost_cache_write_1h,cost_cache_read,cost_output
+main,53315,7504.59,0.54,0.03,1584.23,5013.33,906.45
+subagent,8640,377.18,0.04,119.02,0.0,217.6,40.53
